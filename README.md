@@ -1,4 +1,4 @@
-## 👋 Olá, eu me chamo Heitor Alexandre, mas pode me chamar de Heitor 
+## Olá 👋, eu me chamo Heitor Alexandre 
 
 - 🔭 Cursando Tecnologia em Sistemas para Internet pelo IFRN-CN
 - 🌱 Estudando atualmente JavaScript, HTML e CSS
@@ -23,6 +23,6 @@
   <a href = "mailto:contatoheitorv44@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/heitor-alexandre-0771ab21a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
-  ![Snake animation](https://github.com/halffex/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/halffex/halffex/blob/output/github-contribution-grid-snake.svg)
   
 </div>
