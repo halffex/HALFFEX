@@ -1,4 +1,4 @@
-## Olá 👋, eu me chamo Heitor Alexandre 
+## Olá 👋, me chamo Heitor Alexandre 
 
 - 🔭 Cursando Tecnologia em Sistemas para Internet pelo IFRN-CN
 - 🌱 Estudando atualmente JavaScript, HTML e CSS
