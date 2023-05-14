@@ -25,3 +25,4 @@
   ![Snake animation](https://github.com/halffex/halffex/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+ 
