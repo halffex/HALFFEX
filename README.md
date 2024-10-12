@@ -1,25 +1,26 @@
 # Olá!👋, me chamo Heitor Alexandre 
 
-- 🔭 Developer Front-end jr em formação
-- 🌱 Cursando Tecnologia em Sistemas para Internet
-- 📚 Estudando atualmente JavaScript, HTML e CSS
-  
-<div>
-  <a href="https://github.com/halffex">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=halffex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halffex&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="heitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="heitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="heitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-##
-  
-<div>
-  <a href="https://instagram.com/halffex" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:contatoheitorv44@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/heitor-alexandre-0771ab21a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  
-</div>
+- 🔭 Desenvolvedor Front-end Jr. em formação
+- 🌱 Cursando **Tecnologia em Sistemas para Internet**
+- 📚 Estudando atualmente: **JavaScript, HTML e CSS**
+
+## 🛠️ Tecnologias
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
+
+## ⚡ Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=halffex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=halffex&layout=compact&langs_count=6&theme=tokyonight)
+
+## 📫 Contato
+
+- **Instagram**: @halffex
+- **E-mail**: heitorv44@gmail.com
+- **LinkedIn**: [Heitor Alexandre](https://www.linkedin.com/in/heitor-alexandre-0771ab21a)
+
+---
+
+*"A tecnologia é melhor quando une as pessoas."* – Matt Mullenweg
