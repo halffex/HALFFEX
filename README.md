@@ -2,7 +2,6 @@
 
 - 🔭 Desenvolvedor Front-end Jr. em formação
 - 🌱 Cursando **Tecnologia em Sistemas para Internet**
-- 📚 Estudando atualmente: **JavaScript, HTML e CSS**
 
 ## 🛠️ Tecnologias
 
@@ -17,10 +16,8 @@
 
 ## 📫 Contato
 
-- **Instagram**: @halffex
 - **E-mail**: heitorv44@gmail.com
 - **LinkedIn**: [Heitor Alexandre](https://www.linkedin.com/in/heitor-alexandre-0771ab21a)
-
 ---
 
 *"A tecnologia é melhor quando une as pessoas."* – Matt Mullenweg
